@@ -22,5 +22,5 @@ PyYAML>=6.0
 requests>=2.25.0
 numpy>=1.21.0
 # Full installation includes GGUF support and ControlNet
-stable-diffusion-cpp-python>=0.1.0
+stable-diffusion-cpp-python>=0.1.0,<0.3.0
 gguf>=0.1.0
